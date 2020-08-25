@@ -147,8 +147,6 @@ In the end __Google's Cloud Platform's Natural Language API__ performed best for
 
 ## 5. Topic Modeling
 
-Source File: Topic_Modeling_LDA.ipynb
-
 ### Latent Dirichlet Allocation (LDA) 
 
 Source Files: [LDA Code](../code/lda)
